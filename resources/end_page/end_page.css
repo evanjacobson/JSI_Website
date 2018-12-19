@@ -1,0 +1,49 @@
+#footer{
+    background: none repeat scroll 0 0 #e7e7e9;
+    padding-top: 25px !important;
+}
+
+footer h5{
+    color: #544298 !important;
+    margin: 5px 0 5px;
+    text-overflow: ellipsis;
+}
+
+footer div.col-md-2, footer div.col-md-3{
+    padding-top: 31px;
+    padding-bottom: 10px;
+}
+
+#contact{
+    padding-top: 0 !important;
+    -ms-flex: 0 0 27%;
+    flex: 0 0 27%;
+    max-width: 20%;
+}
+
+#leftfoot{
+    -ms-flex: 0 0 20%;
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding-top: 0;
+}
+
+#leftfoot, #midfoot{
+    margin-top: 4px;
+}
+
+footer #contact p, footer #leftfoot p{
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#flow{
+    margin-right: 0;
+}
+
+#footlogo{
+    padding-top: 22px;
+    padding-bottom: 18px;
+}

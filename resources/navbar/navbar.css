@@ -1,0 +1,76 @@
+.purple{
+/*    background-color: #3F2893;*/ /*   JACOBSON STAFFING OFFICIAL LOGO COLOR   */
+    background-color: #38025a !important;
+}
+
+#bar-title{
+    color: white !important;
+    margin-bottom: 0;
+}
+
+.icon{
+    display: inline-block;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+}
+
+.home{
+    margin-left: 2rem;
+}
+
+#main_page_intro{
+    display: inline-block;
+    
+}
+
+h3{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.collapsedNav{
+    text-align: right;
+    padding-right: 10px !important;
+}
+
+.separator{
+    padding: 2.5px 1px;
+}
+
+.navbar-toggler{
+    background-color: #3a045c;
+}
+
+.navbar-nav li:hover>.dropdown-wrap .dropdown-menu, .navbar-nav li:hover>.dropdown-wrap {
+  display: block;
+}
+
+.menuHover{
+    background-color: #893db8 !important;
+}
+
+.active{
+    background-color: #333 !important;
+}
+
+.lightGray{
+    color: rgba(255,255,255,.75);
+}
+
+.dropdown-wrap{
+    position: relative;
+    display: block;
+}
+
+.dropdown-menu{
+    margin-top: 0 !important;
+    padding-top: 3 !important;
+}
+
+.dropdown{
+    position: relative;
+    z-index: 10;
+}
